@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/exotica/pom.xml" />
         <option value="$PROJECT_DIR$/backendapi/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
       </list>
     </option>
   </component>
