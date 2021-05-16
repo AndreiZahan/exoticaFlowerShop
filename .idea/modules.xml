@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backendapi/backend-client/backend-client.iml" filepath="$PROJECT_DIR$/backendapi/backend-client/backend-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backendapi/backend-database/backend-database.iml" filepath="$PROJECT_DIR$/backendapi/backend-database/backend-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backendapi/backendapi.iml" filepath="$PROJECT_DIR$/backendapi/backendapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exotica/exotica.iml" filepath="$PROJECT_DIR$/exotica/exotica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exoticaFlowerShop.iml" filepath="$PROJECT_DIR$/.idea/exoticaFlowerShop.iml" />
+    </modules>
+  </component>
+</project>
